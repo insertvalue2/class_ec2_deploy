@@ -19,3 +19,6 @@ jobs:
       - run: ls -al
       # 러너에 Docker가 이미 설치되어 있는지 확인
       - run: docker --version
+
+
+
